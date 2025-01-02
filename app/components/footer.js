@@ -10,7 +10,7 @@ export default function Footer() {
 
         {/* Right side: Contact Details */}
         <div className="w-2/3 text-gray-700 md:text-right">
-            <h2 className="text-xl text-gray-400 font-semibold">CONTACT</h2>
+            <h2 className="text-xl text-gray-400 font-semibold">CONTACT US</h2>
             <p>HN0 14, WD N0 4, Pataudi - 122503 (Haryana)</p>
             <p>Phone Number: <a href="tel:+919499116400" className="text-blue-600">+91 9499116400</a></p>
             <p>E-Mail: <a href="mailto:info@tulsitechlabs.com" className="text-blue-600">info@tulsitechlabs.com</a></p>
